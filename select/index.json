@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "リテラチュア",
+  "base_artist": "上田麗奈",
+  "createdAt": "2026-01-10T08:38:20.223499Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "リテラチュア",
+      "artist": "上田麗奈",
+      "has_synced": false,
+      "path": "select/pl_01_リテラチュア_上田麗奈.txt"
+    }
+  ]
+}
